@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 4e80b823f8bed2e40a27606788d4a641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8968535146910975325
+    second: aster3_0
+  - first:
+      213: 3377534726445149979
+    second: aster3_1
+  - first:
+      213: -2838871636290021194
+    second: aster3_2
+  - first:
+      213: 2126466813011099830
+    second: aster3_3
+  - first:
+      213: 2290795804970251956
+    second: aster3_4
+  - first:
+      213: 4339442641391681412
+    second: aster3_5
+  - first:
+      213: 2232770600466913130
+    second: aster3_6
+  - first:
+      213: -2660653585131076541
+    second: aster3_7
+  - first:
+      213: -3549861857676727938
+    second: aster3_8
+  - first:
+      213: -1840903697673501631
+    second: aster3_9
+  - first:
+      213: -2164555249516939156
+    second: aster3_10
+  - first:
+      213: 9166889342987066056
+    second: aster3_11
+  - first:
+      213: -8786237225888590421
+    second: aster3_12
+  - first:
+      213: -8515990226271053205
+    second: aster3_13
+  - first:
+      213: -7325031556354153941
+    second: aster3_14
+  - first:
+      213: 8081302764135982525
+    second: aster3_15
+  - first:
+      213: -2600670973759086202
+    second: aster3_16
+  - first:
+      213: 8723292702513474738
+    second: aster3_17
+  - first:
+      213: 7434657151007544669
+    second: aster3_18
+  - first:
+      213: 5707877658418676414
+    second: aster3_19
+  - first:
+      213: -9070766124172558108
+    second: aster3_20
+  - first:
+      213: 4243893923232138129
+    second: aster3_21
+  - first:
+      213: -409966918620212638
+    second: aster3_22
+  - first:
+      213: -1449992891100541478
+    second: aster3_23
+  - first:
+      213: 2507060416252061015
+    second: aster3_24
+  - first:
+      213: -1104223854980676136
+    second: aster3_25
+  - first:
+      213: 1741073657965652038
+    second: aster3_26
+  - first:
+      213: -4355080581365180167
+    second: aster3_27
+  - first:
+      213: 3775603077834936345
+    second: aster3_28
+  - first:
+      213: 1555889992900307350
+    second: aster3_29
+  - first:
+      213: -6108807555123316649
+    second: aster3_30
+  - first:
+      213: 7480310185279019086
+    second: aster3_31
+  - first:
+      213: -1871180322214575096
+    second: aster3_32
+  - first:
+      213: -872781131460409463
+    second: aster3_33
+  - first:
+      213: 5934851303768279992
+    second: aster3_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aster3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550c33e233a67c70800000000000000
+      internalID: 8968535146910975325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eed2283b060beaf4b8ca7a6eda5adce0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":443.0,"y":390.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      aster3_0: 8968535146910975325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

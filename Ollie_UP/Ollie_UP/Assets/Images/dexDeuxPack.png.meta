@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: 0ac79f25980ae8542b458dfca6b9ff8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5432028398245276784
+    second: dexDeuxPack_0
+  - first:
+      213: -1459003453523202702
+    second: dexDeuxPack_1
+  - first:
+      213: -6048496373721455627
+    second: dexDeuxPack_2
+  - first:
+      213: 1907268327803769170
+    second: dexDeuxPack_3
+  - first:
+      213: -7991541072711875429
+    second: dexDeuxPack_4
+  - first:
+      213: 7650613002111063316
+    second: dexDeuxPack_5
+  - first:
+      213: 3837647881304169229
+    second: dexDeuxPack_6
+  - first:
+      213: -459404593454999627
+    second: dexDeuxPack_7
+  - first:
+      213: -169099843644983011
+    second: dexDeuxPack_8
+  - first:
+      213: -1682362362623531878
+    second: dexDeuxPack_9
+  - first:
+      213: 3443121924971234498
+    second: dexDeuxPack_10
+  - first:
+      213: -1284411853260486725
+    second: dexDeuxPack_11
+  - first:
+      213: 837951054515440913
+    second: dexDeuxPack_12
+  - first:
+      213: -4012847149050475856
+    second: dexDeuxPack_13
+  - first:
+      213: -6322191513724704587
+    second: dexDeuxPack_14
+  - first:
+      213: -5428768050297103412
+    second: dexDeuxPack_15
+  - first:
+      213: -4527655336063716238
+    second: dexDeuxPack_16
+  - first:
+      213: 1044342538798571933
+    second: dexDeuxPack_17
+  - first:
+      213: -8410967881327118138
+    second: dexDeuxPack_18
+  - first:
+      213: 828578203920424765
+    second: dexDeuxPack_19
+  - first:
+      213: -833955776004604058
+    second: dexDeuxPack_20
+  - first:
+      213: 1826721880025727074
+    second: dexDeuxPack_21
+  - first:
+      213: -4740274950650224337
+    second: dexDeuxPack_22
+  - first:
+      213: 8024569904366291196
+    second: dexDeuxPack_23
+  - first:
+      213: 7742805992346148668
+    second: dexDeuxPack_24
+  - first:
+      213: 1086983502996236800
+    second: dexDeuxPack_25
+  - first:
+      213: 7957296054018504814
+    second: dexDeuxPack_26
+  - first:
+      213: -982978911539797648
+    second: dexDeuxPack_27
+  - first:
+      213: -4163167836637424812
+    second: dexDeuxPack_28
+  - first:
+      213: 187227529699899534
+    second: dexDeuxPack_29
+  - first:
+      213: 1478593483311675278
+    second: dexDeuxPack_30
+  - first:
+      213: -3440754532347870308
+    second: dexDeuxPack_31
+  - first:
+      213: -5405439315771271542
+    second: dexDeuxPack_32
+  - first:
+      213: 2841546655706844221
+    second: dexDeuxPack_33
+  - first:
+      213: 7680594945941333045
+    second: dexDeuxPack_34
+  - first:
+      213: -5650013582452610408
+    second: dexDeuxPack_35
+  - first:
+      213: 5116762177763882316
+    second: dexDeuxPack_36
+  - first:
+      213: 6221076956789171679
+    second: dexDeuxPack_37
+  - first:
+      213: -753150361243495044
+    second: dexDeuxPack_38
+  - first:
+      213: -2668586349275827966
+    second: dexDeuxPack_39
+  - first:
+      213: 7395525098477625283
+    second: dexDeuxPack_40
+  - first:
+      213: -476385694312941307
+    second: dexDeuxPack_41
+  - first:
+      213: -7861247106670539961
+    second: dexDeuxPack_42
+  - first:
+      213: 178843357824903273
+    second: dexDeuxPack_43
+  - first:
+      213: 690775319893798055
+    second: dexDeuxPack_44
+  - first:
+      213: -2533008860142089669
+    second: dexDeuxPack_45
+  - first:
+      213: 4245838578229934358
+    second: dexDeuxPack_46
+  - first:
+      213: 3416711859558288610
+    second: dexDeuxPack_47
+  - first:
+      213: 3565447139822837710
+    second: dexDeuxPack_48
+  - first:
+      213: -1427330523431256275
+    second: dexDeuxPack_49
+  - first:
+      213: -5666434536583910291
+    second: dexDeuxPack_50
+  - first:
+      213: 6701356716226570642
+    second: dexDeuxPack_51
+  - first:
+      213: -2488803978679247283
+    second: dexDeuxPack_52
+  - first:
+      213: 3233938813708060907
+    second: dexDeuxPack_53
+  - first:
+      213: -6450012136118242698
+    second: dexDeuxPack_54
+  - first:
+      213: 4654689264027244477
+    second: dexDeuxPack_55
+  - first:
+      213: 8194538350735575276
+    second: dexDeuxPack_56
+  - first:
+      213: 5451657100795606965
+    second: dexDeuxPack_57
+  - first:
+      213: -8762645193229556210
+    second: dexDeuxPack_58
+  - first:
+      213: 5919202023908628527
+    second: dexDeuxPack_59
+  - first:
+      213: -8612834144957494490
+    second: dexDeuxPack_60
+  - first:
+      213: 382640149831240988
+    second: dexDeuxPack_61
+  - first:
+      213: -2612790738680683548
+    second: dexDeuxPack_62
+  - first:
+      213: 5945461239530954969
+    second: dexDeuxPack_63
+  - first:
+      213: -7118753638102674535
+    second: dexDeuxPack_64
+  - first:
+      213: 5889839514502251508
+    second: dexDeuxPack_65
+  - first:
+      213: 4026396675818827819
+    second: dexDeuxPack_66
+  - first:
+      213: -7627720195028700899
+    second: dexDeuxPack_67
+  - first:
+      213: -5457637502796297166
+    second: dexDeuxPack_68
+  - first:
+      213: 1607024675923961010
+    second: dexDeuxPack_69
+  - first:
+      213: -6919559034468149477
+    second: dexDeuxPack_70
+  - first:
+      213: -7129757964582133276
+    second: dexDeuxPack_71
+  - first:
+      213: -6881688865609493367
+    second: dexDeuxPack_72
+  - first:
+      213: -8811295875183056323
+    second: dexDeuxPack_73
+  - first:
+      213: -8495398278476924346
+    second: dexDeuxPack_74
+  - first:
+      213: 7687383896660475681
+    second: dexDeuxPack_75
+  - first:
+      213: 2149291849765478137
+    second: dexDeuxPack_76
+  - first:
+      213: 2521628170367565959
+    second: dexDeuxPack_77
+  - first:
+      213: -3235375635623298879
+    second: dexDeuxPack_78
+  - first:
+      213: -3901365763868499365
+    second: dexDeuxPack_79
+  - first:
+      213: -4060010931183049977
+    second: dexDeuxPack_80
+  - first:
+      213: 4034234777225224273
+    second: dexDeuxPack_81
+  - first:
+      213: 2037268344145748944
+    second: dexDeuxPack_82
+  - first:
+      213: 5372863941269061590
+    second: dexDeuxPack_83
+  - first:
+      213: -3838438659196211552
+    second: dexDeuxPack_84
+  - first:
+      213: 8949304896527314452
+    second: dexDeuxPack_85
+  - first:
+      213: 4883077696648595987
+    second: dexDeuxPack_86
+  - first:
+      213: -8813219822133412101
+    second: dexDeuxPack_87
+  - first:
+      213: -5083164388513011104
+    second: dexDeuxPack_88
+  - first:
+      213: -1737549151223239383
+    second: dexDeuxPack_89
+  - first:
+      213: -1157413310939723511
+    second: dexDeuxPack_90
+  - first:
+      213: 6657923480723683779
+    second: dexDeuxPack_91
+  - first:
+      213: 285366722595946323
+    second: dexDeuxPack_92
+  - first:
+      213: -142488411232677780
+    second: dexDeuxPack_93
+  - first:
+      213: -3648623932387356575
+    second: dexDeuxPack_94
+  - first:
+      213: -7543268204705503207
+    second: dexDeuxPack_95
+  - first:
+      213: 6805794978620381817
+    second: dexDeuxPack_96
+  - first:
+      213: 2179265661424909435
+    second: dexDeuxPack_97
+  - first:
+      213: -210493169611301736
+    second: dexDeuxPack_98
+  - first:
+      213: 6312928484676503973
+    second: dexDeuxPack_99
+  - first:
+      213: 9145213480169851483
+    second: dexDeuxPack_100
+  - first:
+      213: 1126051623175342913
+    second: dexDeuxPack_101
+  - first:
+      213: -3091714617516058489
+    second: dexDeuxPack_102
+  - first:
+      213: -5140606188476352961
+    second: dexDeuxPack_103
+  - first:
+      213: 7642970087815444529
+    second: dexDeuxPack_104
+  - first:
+      213: 7990065669890224300
+    second: dexDeuxPack_105
+  - first:
+      213: -8770168969557625948
+    second: dexDeuxPack_106
+  - first:
+      213: 8455154948618881523
+    second: dexDeuxPack_107
+  - first:
+      213: 5362537460054457291
+    second: dexDeuxPack_108
+  - first:
+      213: -422571181059915296
+    second: dexDeuxPack_109
+  - first:
+      213: -9203663154381828555
+    second: dexDeuxPack_110
+  - first:
+      213: 3018007430910845349
+    second: dexDeuxPack_111
+  - first:
+      213: 5163109754930291976
+    second: dexDeuxPack_112
+  - first:
+      213: -6885638727126298018
+    second: dexDeuxPack_113
+  - first:
+      213: -7498806999554941065
+    second: dexDeuxPack_114
+  - first:
+      213: -822076285292540236
+    second: dexDeuxPack_115
+  - first:
+      213: 7734064152095665118
+    second: dexDeuxPack_116
+  - first:
+      213: 1545797567723607859
+    second: dexDeuxPack_117
+  - first:
+      213: -4321745565576049952
+    second: dexDeuxPack_118
+  - first:
+      213: 4659381738251600435
+    second: dexDeuxPack_119
+  - first:
+      213: 102620197745461030
+    second: dexDeuxPack_120
+  - first:
+      213: -7026347431416966866
+    second: dexDeuxPack_121
+  - first:
+      213: 5608005514144043435
+    second: dexDeuxPack_122
+  - first:
+      213: 1455067764977937055
+    second: dexDeuxPack_123
+  - first:
+      213: 4534788085714279334
+    second: dexDeuxPack_124
+  - first:
+      213: -4667213194270721905
+    second: dexDeuxPack_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dexDeuxPack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6e3f4c01726b40800000000000000
+      internalID: 5432028398245276784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d6ea2d61490cbe0800000000000000
+      internalID: -1459003453523202702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3281b289c6f0ca0800000000000000
+      internalID: -6048496373721455627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d812607af77a10800000000000000
+      internalID: 1907268327803769170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 356
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9480114cb7581190800000000000000
+      internalID: -7991541072711875429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41590d0adff6c2a60800000000000000
+      internalID: 7650613002111063316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5a225a60124530800000000000000
+      internalID: 3837647881304169229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79eeec4fddf99f0800000000000000
+      internalID: -459404593454999627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1977ff869c37adf0800000000000000
+      internalID: -169099843644983011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 340
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a946650485c07a8e0800000000000000
+      internalID: -1682362362623531878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 337
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c40548f52d68cf20800000000000000
+      internalID: 3443121924971234498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 262
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78b1d793adc2ee0800000000000000
+      internalID: -1284411853260486725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d8e8f5b0001ab00800000000000000
+      internalID: 837951054515440913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba48e667c08f48c0800000000000000
+      internalID: -4012847149050475856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 324
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8237e80501348a0800000000000000
+      internalID: -6322191513724704587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 324
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb1d0a983429a4b0800000000000000
+      internalID: -5428768050297103412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274358cd5798a21c0800000000000000
+      internalID: -4527655336063716238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 306
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d912be081004e7e00800000000000000
+      internalID: 1044342538798571933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 306
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f640764d364b80800000000000000
+      internalID: -8410967881327118138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 306
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fde498c73bf7b00800000000000000
+      internalID: 828578203920424765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 306
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3cd4e3a13d64f0800000000000000
+      internalID: -833955776004604058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 306
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2600e5a1fd1d95910800000000000000
+      internalID: 1826721880025727074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 292
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21afc42c09273eb0800000000000000
+      internalID: -4740274950650224337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80b01efcffc5f60800000000000000
+      internalID: 8024569904366291196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fde82e609f37b60800000000000000
+      internalID: 7742805992346148668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aecc4acbdb51f00800000000000000
+      internalID: 1086983502996236800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f3600a9efd6e60800000000000000
+      internalID: 7957296054018504814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 278
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07168f353e1cb52f0800000000000000
+      internalID: -982978911539797648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 278
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45315e4f8e47936c0800000000000000
+      internalID: -4163167836637424812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88bfef327a299200800000000000000
+      internalID: 187227529699899534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 278
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87fffb60f4058410800000000000000
+      internalID: 1478593483311675278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 278
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9307149bfbff30d0800000000000000
+      internalID: -3440754532347870308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d580e4950cf4b0800000000000000
+      internalID: -5405439315771271542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 260
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c0b12d0a33f6720800000000000000
+      internalID: 2841546655706844221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346e78e864f69a60800000000000000
+      internalID: 7680594945941333045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 260
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa7c1f49e1791b0800000000000000
+      internalID: -5650013582452610408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4535c54714620740800000000000000
+      internalID: 5116762177763882316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd569c11884b55650800000000000000
+      internalID: 6221076956789171679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75df9f9cb54c85f0800000000000000
+      internalID: -753150361243495044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20135f6aad647fad0800000000000000
+      internalID: -2668586349275827966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf9e36d4ee22a660800000000000000
+      internalID: 7395525098477625283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509366a2cb98369f0800000000000000
+      internalID: -476385694312941307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 242
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bc55b386d37e290800000000000000
+      internalID: -7861247106670539961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968679d16116b7200800000000000000
+      internalID: 178843357824903273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac60e95e70269900800000000000000
+      internalID: 690775319893798055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 242
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4056bcd1f8dcd0800000000000000
+      internalID: -2533008860142089669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197b0501bf3cea30800000000000000
+      internalID: 4245838578229934358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec06d075599a6f20800000000000000
+      internalID: 3416711859558288610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf929a78430b7130800000000000000
+      internalID: 3565447139822837710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbec5837a113ce0800000000000000
+      internalID: -1427330523431256275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c29ef9fc7cc51b0800000000000000
+      internalID: -5666434536583910291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ecd79d60000d50800000000000000
+      internalID: 6701356716226570642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9e37b7fdf57dd0800000000000000
+      internalID: -2488803978679247283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 226
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ca68873241ec20800000000000000
+      internalID: 3233938813708060907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 228
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672b6b5c224fc76a0800000000000000
+      internalID: -6450012136118242698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 228
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db71b2a5937c89040800000000000000
+      internalID: 4654689264027244477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8c8e5a639d8b170800000000000000
+      internalID: 8194538350735575276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 228
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b77822cf3d28ab40800000000000000
+      internalID: 5451657100795606965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06a4cc8f94d46680800000000000000
+      internalID: -8762645193229556210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d8d421ea352250800000000000000
+      internalID: 5919202023908628527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b04785af0197880800000000000000
+      internalID: -8612834144957494490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d4e7f50396f4500800000000000000
+      internalID: 382640149831240988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_62
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e1849aa08dbbd0800000000000000
+      internalID: -2612790738680683548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_63
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a8183f75828250800000000000000
+      internalID: 5945461239530954969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993de5d684b153d90800000000000000
+      internalID: -7118753638102674535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f347fd25d9ecb150800000000000000
+      internalID: 5889839514502251508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20bef2a172a0e730800000000000000
+      internalID: 4026396675818827819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 196
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11bd3165e4e42690800000000000000
+      internalID: -7627720195028700899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0af46b939244b0800000000000000
+      internalID: -5457637502796297166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 196
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b42cb9ad6c4d4610800000000000000
+      internalID: 1607024675923961010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b175e2438b9c8ff90800000000000000
+      internalID: -6919559034468149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 180
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e19208e20e0d90800000000000000
+      internalID: -7129757964582133276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d59eff645f70a0800000000000000
+      internalID: -6881688865609493367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 180
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a69d4f51df7b580800000000000000
+      internalID: -8811295875183056323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afae9b6484a1a80800000000000000
+      internalID: -8495398278476924346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f718cace21faa60800000000000000
+      internalID: 7687383896660475681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed9e7cc81d3dd10800000000000000
+      internalID: 2149291849765478137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7808066f57f9ef220800000000000000
+      internalID: 2521628170367565959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 161
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c838bb4003a913d0800000000000000
+      internalID: -3235375635623298879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 164
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b526fb112809bd9c0800000000000000
+      internalID: -3901365763868499365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a1a6a191f7a7c0800000000000000
+      internalID: -4060010931183049977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506905d72b7cf730800000000000000
+      internalID: 4034234777225224273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3a4fcd3c4d54c10800000000000000
+      internalID: 2037268344145748944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 161
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dff8d5b94f309a40800000000000000
+      internalID: 5372863941269061590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 118
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeab7a50602bbac0800000000000000
+      internalID: -3838438659196211552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 161
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eac205361523c70800000000000000
+      internalID: 8949304896527314452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4f5f1b4d24c340800000000000000
+      internalID: 4883077696648595987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7e46244721b580800000000000000
+      internalID: -8813219822133412101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a24cf9be8f479b0800000000000000
+      internalID: -5083164388513011104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dae8db04cf2e7e0800000000000000
+      internalID: -1737549151223239383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9090127d9ba00ffe0800000000000000
+      internalID: -1157413310939723511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9744a6122b56c50800000000000000
+      internalID: 6657923480723683779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7c03b583d5f300800000000000000
+      internalID: 285366722595946323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60dddf7b87c50ef0800000000000000
+      internalID: -142488411232677780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_94
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 97
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160101f5ddb7d5dc0800000000000000
+      internalID: -3648623932387356575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 97
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918a705a88de05790800000000000000
+      internalID: -7543268204705503207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a1ec2797a037e50800000000000000
+      internalID: 6805794978620381817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c3074a29e4e3e10800000000000000
+      internalID: 2179265661424909435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1ca5d39d241df0800000000000000
+      internalID: -210493169611301736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9869d62070c9750800000000000000
+      internalID: 6312928484676503973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a43a0f4335aee70800000000000000
+      internalID: 9145213480169851483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4e163cf980af00800000000000000
+      internalID: 1126051623175342913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788921c9fe50815d0800000000000000
+      internalID: -3091714617516058489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3631bd58e5e8a8b0800000000000000
+      internalID: -5140606188476352961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138fc29fcc8411a60800000000000000
+      internalID: 7642970087815444529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b9d1c46a62ee60800000000000000
+      internalID: 7990065669890224300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_106
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a33d5dd9c91a4680800000000000000
+      internalID: -8770168969557625948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 66
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f98051e0aeb65570800000000000000
+      internalID: 8455154948618881523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb7541786f8b6a40800000000000000
+      internalID: 5362537460054457291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e14b9cefb9b22af0800000000000000
+      internalID: -422571181059915296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e48bacf15064080800000000000000
+      internalID: -9203663154381828555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12ee0b4cd12e920800000000000000
+      internalID: 3018007430910845349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80569fe77fc07a740800000000000000
+      internalID: 5163109754930291976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 52
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d6f13f0c4170a0800000000000000
+      internalID: -6885638727126298018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9058a3c2eee790800000000000000
+      internalID: -7498806999554941065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be8ddc59f56794f0800000000000000
+      internalID: -822076285292540236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 22
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbaeb79e5ae45b60800000000000000
+      internalID: 7734064152095665118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33714d6a2b6c37510800000000000000
+      internalID: 1545797567723607859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea48324e431604c0800000000000000
+      internalID: -4321745565576049952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332cd65210379a040800000000000000
+      internalID: 4659381738251600435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_120
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6270661b6849c6100800000000000000
+      internalID: 102620197745461030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d9e10d366d7e90800000000000000
+      internalID: -7026347431416966866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_122
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1dcf87d43a3dd40800000000000000
+      internalID: 5608005514144043435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa1a74c60713410800000000000000
+      internalID: 1455067764977937055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab5ca4dcbdceee30800000000000000
+      internalID: 4534788085714279334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dexDeuxPack_125
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883a78e35aba3fb0800000000000000
+      internalID: -4667213194270721905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b76236d4f8ac5774cbca97758b1e7805
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dexDeuxPack_0: 5432028398245276784
+      dexDeuxPack_1: -1459003453523202702
+      dexDeuxPack_10: 3443121924971234498
+      dexDeuxPack_100: 9145213480169851483
+      dexDeuxPack_101: 1126051623175342913
+      dexDeuxPack_102: -3091714617516058489
+      dexDeuxPack_103: -5140606188476352961
+      dexDeuxPack_104: 7642970087815444529
+      dexDeuxPack_105: 7990065669890224300
+      dexDeuxPack_106: -8770168969557625948
+      dexDeuxPack_107: 8455154948618881523
+      dexDeuxPack_108: 5362537460054457291
+      dexDeuxPack_109: -422571181059915296
+      dexDeuxPack_11: -1284411853260486725
+      dexDeuxPack_110: -9203663154381828555
+      dexDeuxPack_111: 3018007430910845349
+      dexDeuxPack_112: 5163109754930291976
+      dexDeuxPack_113: -6885638727126298018
+      dexDeuxPack_114: -7498806999554941065
+      dexDeuxPack_115: -822076285292540236
+      dexDeuxPack_116: 7734064152095665118
+      dexDeuxPack_117: 1545797567723607859
+      dexDeuxPack_118: -4321745565576049952
+      dexDeuxPack_119: 4659381738251600435
+      dexDeuxPack_12: 837951054515440913
+      dexDeuxPack_120: 102620197745461030
+      dexDeuxPack_121: -7026347431416966866
+      dexDeuxPack_122: 5608005514144043435
+      dexDeuxPack_123: 1455067764977937055
+      dexDeuxPack_124: 4534788085714279334
+      dexDeuxPack_125: -4667213194270721905
+      dexDeuxPack_13: -4012847149050475856
+      dexDeuxPack_14: -6322191513724704587
+      dexDeuxPack_15: -5428768050297103412
+      dexDeuxPack_16: -4527655336063716238
+      dexDeuxPack_17: 1044342538798571933
+      dexDeuxPack_18: -8410967881327118138
+      dexDeuxPack_19: 828578203920424765
+      dexDeuxPack_2: -6048496373721455627
+      dexDeuxPack_20: -833955776004604058
+      dexDeuxPack_21: 1826721880025727074
+      dexDeuxPack_22: -4740274950650224337
+      dexDeuxPack_23: 8024569904366291196
+      dexDeuxPack_24: 7742805992346148668
+      dexDeuxPack_25: 1086983502996236800
+      dexDeuxPack_26: 7957296054018504814
+      dexDeuxPack_27: -982978911539797648
+      dexDeuxPack_28: -4163167836637424812
+      dexDeuxPack_29: 187227529699899534
+      dexDeuxPack_3: 1907268327803769170
+      dexDeuxPack_30: 1478593483311675278
+      dexDeuxPack_31: -3440754532347870308
+      dexDeuxPack_32: -5405439315771271542
+      dexDeuxPack_33: 2841546655706844221
+      dexDeuxPack_34: 7680594945941333045
+      dexDeuxPack_35: -5650013582452610408
+      dexDeuxPack_36: 5116762177763882316
+      dexDeuxPack_37: 6221076956789171679
+      dexDeuxPack_38: -753150361243495044
+      dexDeuxPack_39: -2668586349275827966
+      dexDeuxPack_4: -7991541072711875429
+      dexDeuxPack_40: 7395525098477625283
+      dexDeuxPack_41: -476385694312941307
+      dexDeuxPack_42: -7861247106670539961
+      dexDeuxPack_43: 178843357824903273
+      dexDeuxPack_44: 690775319893798055
+      dexDeuxPack_45: -2533008860142089669
+      dexDeuxPack_46: 4245838578229934358
+      dexDeuxPack_47: 3416711859558288610
+      dexDeuxPack_48: 3565447139822837710
+      dexDeuxPack_49: -1427330523431256275
+      dexDeuxPack_5: 7650613002111063316
+      dexDeuxPack_50: -5666434536583910291
+      dexDeuxPack_51: 6701356716226570642
+      dexDeuxPack_52: -2488803978679247283
+      dexDeuxPack_53: 3233938813708060907
+      dexDeuxPack_54: -6450012136118242698
+      dexDeuxPack_55: 4654689264027244477
+      dexDeuxPack_56: 8194538350735575276
+      dexDeuxPack_57: 5451657100795606965
+      dexDeuxPack_58: -8762645193229556210
+      dexDeuxPack_59: 5919202023908628527
+      dexDeuxPack_6: 3837647881304169229
+      dexDeuxPack_60: -8612834144957494490
+      dexDeuxPack_61: 382640149831240988
+      dexDeuxPack_62: -2612790738680683548
+      dexDeuxPack_63: 5945461239530954969
+      dexDeuxPack_64: -7118753638102674535
+      dexDeuxPack_65: 5889839514502251508
+      dexDeuxPack_66: 4026396675818827819
+      dexDeuxPack_67: -7627720195028700899
+      dexDeuxPack_68: -5457637502796297166
+      dexDeuxPack_69: 1607024675923961010
+      dexDeuxPack_7: -459404593454999627
+      dexDeuxPack_70: -6919559034468149477
+      dexDeuxPack_71: -7129757964582133276
+      dexDeuxPack_72: -6881688865609493367
+      dexDeuxPack_73: -8811295875183056323
+      dexDeuxPack_74: -8495398278476924346
+      dexDeuxPack_75: 7687383896660475681
+      dexDeuxPack_76: 2149291849765478137
+      dexDeuxPack_77: 2521628170367565959
+      dexDeuxPack_78: -3235375635623298879
+      dexDeuxPack_79: -3901365763868499365
+      dexDeuxPack_8: -169099843644983011
+      dexDeuxPack_80: -4060010931183049977
+      dexDeuxPack_81: 4034234777225224273
+      dexDeuxPack_82: 2037268344145748944
+      dexDeuxPack_83: 5372863941269061590
+      dexDeuxPack_84: -3838438659196211552
+      dexDeuxPack_85: 8949304896527314452
+      dexDeuxPack_86: 4883077696648595987
+      dexDeuxPack_87: -8813219822133412101
+      dexDeuxPack_88: -5083164388513011104
+      dexDeuxPack_89: -1737549151223239383
+      dexDeuxPack_9: -1682362362623531878
+      dexDeuxPack_90: -1157413310939723511
+      dexDeuxPack_91: 6657923480723683779
+      dexDeuxPack_92: 285366722595946323
+      dexDeuxPack_93: -142488411232677780
+      dexDeuxPack_94: -3648623932387356575
+      dexDeuxPack_95: -7543268204705503207
+      dexDeuxPack_96: 6805794978620381817
+      dexDeuxPack_97: 2179265661424909435
+      dexDeuxPack_98: -210493169611301736
+      dexDeuxPack_99: 6312928484676503973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
